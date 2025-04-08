@@ -17,10 +17,10 @@ def choose_grid_size():
         try:
             level = int(input(
                 "Choose Difficulty Level:\n"
-                "1. Classic (3x3 without Toss)\n"
-                "2. Easy (3x3 with Toss)\n"
-                "3. Medium (4x4 without Toss)\n"
-                "4. Hard (5x5 without Toss)\n"
+                "1. Classic mode (3x3 without Toss)\n"
+                "2. Easy mode (3x3 with Toss)\n"
+                "3. Medium mode (4x4 without Toss)\n"
+                "4. Hard mode (5x5 without Toss)\n"
                 "Enter your choice (1/2/3/4): "
             ))
             
