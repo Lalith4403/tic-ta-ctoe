@@ -19,7 +19,7 @@ def choose_grid_size():
                 "Choose Difficulty Level:\n"
                 "1. Classic mode (3x3 without Toss)\n"
                 "2. Easy mode (3x3 with Toss)\n"
-                "3. Medium mode (4x4 without Toss)\n"
+                "3. Medium (4x4 without Toss)\n"
                 "4. Hard mode (5x5 without Toss)\n"
                 "Enter your choice (1/2/3/4): "
             ))
@@ -99,7 +99,7 @@ def challenge_question():
     questions = [
         ("5 + 7", "12"), ("9 × 3", "27"), ("Half of 100", "50"), ("Square root of 36", "6"),
         ("A triangle with sides 3 cm, 4 cm, and 5 cm is a right triangle (Yes/No)", "Yes"),
-        ("Boiling point of water in Celsius", "100"), ("Example of a planet", "Mars"),
+        ("Boiling point of water in Celsius", "101"), ("Example of a planet", "Mars"),
         ("Plants release __ during photosynthesis", "oxygen"), ("Main source of energy for Earth", "The Sun"),
         ("Largest organ in the human body", "Skin"), ("Binary representation of 5", "101"),
         ("HTML stands for", "HyperText Markup Language"), ("Example of a basic programming language", "Python"),
