@@ -104,7 +104,7 @@ def challenge_question():
         ("Largest organ in the human body", "Skin"), ("Binary representation of 5", "101"),
         ("HTML stands for", "HyperText Markup Language"), ("Example of a basic programming language", "Python"),
         ("An algorithm is", "step-by-step procedure"), ("A loop in programming is", "repeating instructions"),
-        ("Capital of India", "New Delhi"), ("Largest ocean", "Pacific"), ("Example of a European country", "France"),
+        ("Capital of India", "New Delhi"), ("Largest ocean", "Pacific ocean"), ("Example of a European country", "France"),
         ("Indian state known for backwaters", "Kerala"), ("Color of the sky during the day", "Blue"),
         ("Father of the Nation in India", "Mahatma Gandhi"), ("Example of an animal that can fly", "Bird"),
         ("Sport with a bat and ball", "Cricket"), ("King of fruits in India", "Mango")
